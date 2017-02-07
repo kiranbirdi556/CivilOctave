@@ -1,0 +1,53 @@
+# Created by Octave 4.2.0, Thu Jan 26 20:40:23 2017 GMT <unknown@unknown>
+# name: beam
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 9
+# name: width
+# type: scalar
+300
+
+
+# name: depth
+# type: scalar
+600
+
+
+# name: fck
+# type: scalar
+15
+
+
+# name: fy
+# type: scalar
+415
+
+
+# name: factored_moment
+# type: scalar
+320000000
+
+
+# name: main_dia
+# type: scalar
+25
+
+
+# name: clear_cover
+# type: scalar
+25
+
+
+# name: shear
+# type: scalar
+20000
+
+
+# name: stirrup_dia
+# type: scalar
+8
+
+
+
+
