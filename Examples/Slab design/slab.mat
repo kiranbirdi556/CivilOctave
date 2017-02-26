@@ -1,0 +1,48 @@
+# Created by Octave 4.2.0, Sat Feb 25 23:04:47 2017 GMT <unknown@unknown>
+# name: slab
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 8
+# name: fy
+# type: scalar
+500
+
+
+# name: fck
+# type: scalar
+20
+
+
+# name: moment
+# type: scalar
+23232000
+
+
+# name: load
+# type: scalar
+0.009938000000000001
+
+
+# name: width
+# type: scalar
+7000
+
+
+# name: length
+# type: scalar
+3000
+
+
+# name: shear
+# type: scalar
+29040
+
+
+# name: main_dia
+# type: scalar
+8
+
+
+
+
