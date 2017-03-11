@@ -1,12 +1,17 @@
-# Created by Octave 4.2.0, Sat Feb 25 23:04:47 2017 GMT <unknown@unknown>
+# Created by Octave 4.2.0, Sun Mar 05 23:30:14 2017 GMT <unknown@unknown>
+# name: ans
+# type: scalar
+0
+
+
 # name: slab
 # type: scalar struct
 # ndims: 2
  1 1
-# length: 8
+# length: 9
 # name: fy
 # type: scalar
-500
+415
 
 
 # name: fck
@@ -14,34 +19,39 @@
 20
 
 
-# name: moment
-# type: scalar
-23232000
-
-
-# name: load
-# type: scalar
-0.009938000000000001
-
-
 # name: width
 # type: scalar
-7000
+8000
 
 
 # name: length
 # type: scalar
-3000
+3500
 
 
-# name: shear
+# name: liveLoad
 # type: scalar
-29040
+4
 
 
-# name: main_dia
+# name: floorLoad
 # type: scalar
-8
+1
+
+
+# name: supportWidth
+# type: scalar
+250
+
+
+# name: clearCover
+# type: scalar
+15
+
+
+# name: mainDia
+# type: scalar
+10
 
 
 
