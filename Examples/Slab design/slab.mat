@@ -1,4 +1,4 @@
-# Created by Octave 4.2.0, Sun Mar 05 23:30:14 2017 GMT <unknown@unknown>
+# Created by Octave 4.2.0, Wed Mar 22 22:33:55 2017 GMT <unknown@unknown>
 # name: ans
 # type: scalar
 0
@@ -8,7 +8,7 @@
 # type: scalar struct
 # ndims: 2
  1 1
-# length: 9
+# length: 10
 # name: fy
 # type: scalar
 415
@@ -26,7 +26,7 @@
 
 # name: length
 # type: scalar
-3500
+5000
 
 
 # name: liveLoad
@@ -52,6 +52,13 @@
 # name: mainDia
 # type: scalar
 10
+
+
+# name: coeff
+# type: matrix
+# rows: 1
+# columns: 2
+ 1 2
 
 
 

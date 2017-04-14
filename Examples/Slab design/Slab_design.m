@@ -1,4 +1,4 @@
-  %One way slab design (simply supported)
+ %One way slab design (simply supported)
   clc;
   clear;
   
